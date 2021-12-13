@@ -1,9 +1,9 @@
 
-package _18010310027_yusuf_akyel;
+package decoder_example;
 
 import java.util.Scanner;
 
-public class _18010310027_Yusuf_Akyel {
+public class decoder_example {
 
      static Scanner giris = new Scanner(System.in);
     
