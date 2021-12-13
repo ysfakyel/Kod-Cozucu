@@ -1,1 +1,1 @@
-# Kod-z-c-rne-i
+# Kod cozucu ornegi
